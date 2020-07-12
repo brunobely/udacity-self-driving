@@ -9,4 +9,4 @@ TODO.
 
 ## Appendix
 Below is a cheatsheet for this project.
-![Udacity-provided project cheatsheet.](1_finding_lane_lines/nd013-sdc-p1-lessons-cheat-sheet.pdf)
+![Udacity-provided project cheatsheet.](./nd013-sdc-p1-lessons-cheat-sheet.pdf)
